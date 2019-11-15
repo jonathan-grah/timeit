@@ -21,7 +21,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.jonathangraham.timein"
+      "package": "com.jonathangraham.timeit"
     }
   }
 }
